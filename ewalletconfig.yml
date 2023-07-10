@@ -1,5 +1,5 @@
 token:
-  expiration_time: 123123 #300000 # 5분
+  expiration_time: 300000 #300000 # 5분
   secret: user_token
 
 gateway:
