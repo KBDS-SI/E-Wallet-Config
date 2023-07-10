@@ -1,6 +1,6 @@
 token:
   expiration_time: 300000 #300000 # 5분
-  secret: user_token_change
+  secret: user_token_zzzzzz
 
 gateway:
   ip: 192.168.61.252
