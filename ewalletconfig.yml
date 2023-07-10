@@ -1,6 +1,6 @@
 token:
-  expiration_time: 123
-  secret: user_token1231
+  expiration_time: 100000
+  secret: user_token
 
 gateway:
   ip: 192.168.61.252
