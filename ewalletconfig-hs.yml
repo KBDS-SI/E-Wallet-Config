@@ -1,5 +1,3 @@
-config:
-  name: ewalletconfig-hs
 token:
   expiration_time: 950108 #300000 # 5분
   secret: user_token_hs
